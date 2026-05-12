@@ -9,12 +9,12 @@ Welcome to **CodeArz**, a unique, interactive, and creative developer portfolio 
 
 - **Thematic Design**: Sherlock-inspired aesthetics combined with modern web development practices.
 - **Interactive Elements**:
-  - A **countdown timer** for added engagement.
+  - A **CV Assistant chatbot** featured on the homepage — visitors can [chat with my CV](https://cv-agent.netlify.app/) directly.
   - A **mystery mini-game** to challenge users' problem-solving skills.
 - **Dynamic Animations**:
   - Subtle hover effects and shooting star animations for a visually immersive experience.
 - **Project Portfolio**:
-  - Hackathon projects, open-source contributions, and the **Knitting App** ( KnittMates) for mental health.
+  - Hackathon projects (e.g. **MindGarden**, an AI-powered mental health support system built for the Agent Development Kit Hackathon with Google Cloud), open-source contributions, and personal apps like **KnittMates** (a knitting calculator & guide).
 - **SEO Optimized**:
   - Detailed meta tags, descriptions, and canonical links to enhance discoverability.
 - **Technical Blog**:
@@ -28,6 +28,14 @@ Welcome to **CodeArz**, a unique, interactive, and creative developer portfolio 
 - **Deployment**: GitHub Pages for seamless hosting.
 - **Design**: Custom CSS with modern animations and a responsive layout.
 - **Version Control**: Git and GitHub for collaborative development.
+
+## 🏠 Homepage Highlights
+
+The homepage's **Lab Intelligence Updates** section is where the currently featured project lives. It's intentionally rotated as new work ships, so this is the first place to update when promoting a new project.
+
+- **Currently featured**: [CV Assistant](https://cv-agent.netlify.app/) — an interactive chatbot for my CV.
+- **Component**: `src/components/CVAssistant/CVAssistant.js`
+- Completed projects (including past homepage features like MindGarden) live on the **Solved Cases** page (`src/components/Projects/Projects.js`).
 
 ## 🕹️ Mystery Game
 
