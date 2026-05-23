@@ -12,6 +12,7 @@ const events = [
   { year: "2025", title: "Tech Talks: My Journey to Software Engineering-Codecademy"},
   { year: "2025", title: "Panel: International Women's Day-Frontend Queens"},
   { year: "2025", title: "The Fun Side of Being a Woman Developer-GDG London"},
+  { year: "2026", title: "The Fun Side of Being a Woman Developer-GDG London"},
 ];
 
 function SpeakingPage() {
