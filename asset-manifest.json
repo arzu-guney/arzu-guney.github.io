@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.4f59b8fb.css",
-    "main.js": "/static/js/main.f5123837.js",
+    "main.js": "/static/js/main.7a2e65c0.js",
     "static/media/whyYouWaiting.png": "/static/media/whyYouWaiting.a5d15956737df72c2ccf.png",
     "static/media/whenWomenUnderstandImage.png": "/static/media/whenWomenUnderstandImage.0da09cb8d1debe1134d0.png",
     "static/media/dottinoo.png": "/static/media/dottinoo.4c51163f4463a64b8e2a.png",
+    "static/media/profil-photo.png": "/static/media/profil-photo.e15d39e1c970a10d6204.png",
     "static/media/juniorPortfolio.png": "/static/media/juniorPortfolio.2af4773e47c85f634ee9.png",
     "static/media/motino.png": "/static/media/motino.ff18a01a3de309391efc.png",
     "static/media/expoforReactNative.png": "/static/media/expoforReactNative.85d5e780763ee9dc6389.png",
@@ -24,7 +25,6 @@
     "static/media/rediscovering-javascript-part-1.png": "/static/media/rediscovering-javascript-part-1.518108d00ac36736e949.png",
     "static/media/goodnessOfNatureImage.png": "/static/media/goodnessOfNatureImage.07a43c3fe2202f2238d3.png",
     "static/media/halfTheYear.png": "/static/media/halfTheYear.ae08ea1fcfb1a3ea1174.png",
-    "static/media/profil-photo.png": "/static/media/profil-photo.68428dc7d261ad6a6c61.png",
     "static/media/experienceaboutyears.png": "/static/media/experienceaboutyears.a9f26d958242e6536147.png",
     "static/media/2025-in-review.png": "/static/media/2025-in-review.45ba5cd669a232a586bd.png",
     "static/media/recap2024Image.png": "/static/media/recap2024Image.c4a7069320f84cc4400e.png",
@@ -49,10 +49,10 @@
     "static/media/accessibility-guide.png": "/static/media/accessibility-guide.c3ae312fb1befa2a3dee.png",
     "index.html": "/index.html",
     "main.4f59b8fb.css.map": "/static/css/main.4f59b8fb.css.map",
-    "main.f5123837.js.map": "/static/js/main.f5123837.js.map"
+    "main.7a2e65c0.js.map": "/static/js/main.7a2e65c0.js.map"
   },
   "entrypoints": [
     "static/css/main.4f59b8fb.css",
-    "static/js/main.f5123837.js"
+    "static/js/main.7a2e65c0.js"
   ]
 }
