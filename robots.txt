@@ -1,5 +1,3 @@
 User-agent: *
 Disallow: /private/
 Allow: /
-Sitemap: https://www.codearz.com/sitemap.xml
-
