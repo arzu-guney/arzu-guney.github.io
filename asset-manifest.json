@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.56ad38ca.css",
-    "main.js": "/static/js/main.237b1fac.js",
+    "main.js": "/static/js/main.03b8acc0.js",
     "static/media/whyYouWaiting.png": "/static/media/whyYouWaiting.a5d15956737df72c2ccf.png",
     "static/media/whenWomenUnderstandImage.png": "/static/media/whenWomenUnderstandImage.0da09cb8d1debe1134d0.png",
     "static/media/juniorPortfolio.png": "/static/media/juniorPortfolio.2af4773e47c85f634ee9.png",
@@ -15,13 +15,18 @@
     "static/media/aboutMe.png": "/static/media/aboutMe.65a194e5122da41c8798.png",
     "static/media/watchTutorials.png": "/static/media/watchTutorials.626290a580b9b4fb385b.png",
     "static/media/aiDevCampNotesImage.png": "/static/media/aiDevCampNotesImage.0543c86c0bfe9228e78d.png",
+    "static/media/rediscovering-javascript-part-3.png": "/static/media/rediscovering-javascript-part-3.e08feadaf4dbd947c330.png",
     "static/media/howDevelopers.png": "/static/media/howDevelopers.d0adec32fa3181e47e43.png",
     "static/media/mobileAppsImage.png": "/static/media/mobileAppsImage.262053d7c211b442663f.png",
+    "static/media/rediscovering-javascript-part-2.png": "/static/media/rediscovering-javascript-part-2.76c736505eea43ffe395.png",
+    "static/media/rediscovering-javascript-part-1.png": "/static/media/rediscovering-javascript-part-1.518108d00ac36736e949.png",
     "static/media/goodnessOfNatureImage.png": "/static/media/goodnessOfNatureImage.07a43c3fe2202f2238d3.png",
     "static/media/halfTheYear.png": "/static/media/halfTheYear.ae08ea1fcfb1a3ea1174.png",
     "static/media/profil-photo.png": "/static/media/profil-photo.68428dc7d261ad6a6c61.png",
     "static/media/experienceaboutyears.png": "/static/media/experienceaboutyears.a9f26d958242e6536147.png",
+    "static/media/2025-in-review.png": "/static/media/2025-in-review.45ba5cd669a232a586bd.png",
     "static/media/recap2024Image.png": "/static/media/recap2024Image.c4a7069320f84cc4400e.png",
+    "static/media/so-far-so-good-2026.png": "/static/media/so-far-so-good-2026.62989b086c4cac4d84db.png",
     "static/media/quickCuisineImage.png": "/static/media/quickCuisineImage.1b7dfbeb34bb7009e1fc.png",
     "static/media/habitMasterImage.png": "/static/media/habitMasterImage.d5b07c7206fa2efa5023.png",
     "static/media/innoaiTS.png": "/static/media/innoaiTS.3b46a10fb770b037cb1b.png",
@@ -42,10 +47,10 @@
     "static/media/accessibility-guide.png": "/static/media/accessibility-guide.c3ae312fb1befa2a3dee.png",
     "index.html": "/index.html",
     "main.56ad38ca.css.map": "/static/css/main.56ad38ca.css.map",
-    "main.237b1fac.js.map": "/static/js/main.237b1fac.js.map"
+    "main.03b8acc0.js.map": "/static/js/main.03b8acc0.js.map"
   },
   "entrypoints": [
     "static/css/main.56ad38ca.css",
-    "static/js/main.237b1fac.js"
+    "static/js/main.03b8acc0.js"
   ]
 }
