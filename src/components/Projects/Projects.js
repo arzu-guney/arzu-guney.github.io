@@ -141,7 +141,7 @@ function Projects() {
         <meta name="author" content="Arzu Guney Caner" />
         <link
           rel="canonical"
-          href="https://arzu-guney.github.io/projects"
+          href="https://arzu-guney.github.io/"
         />
       </Helmet>
     <div className={styles.projects}>

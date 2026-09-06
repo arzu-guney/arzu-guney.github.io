@@ -40,7 +40,7 @@ function AboutMe() {
         <meta name="author" content="Arzu Guney Caner" />
         <link
           rel="canonical"
-          href="https://arzu-guney.github.io/about"
+          href="https://arzu-guney.github.io/"
         />
       </Helmet>
       <div className={styles.aboutMeContainer}>

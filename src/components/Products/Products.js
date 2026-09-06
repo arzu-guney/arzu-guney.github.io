@@ -21,7 +21,7 @@ function Products() {
         <meta name="author" content="Arzu Guney Caner" />
         <link
           rel="canonical"
-          href="https://arzu-guney.github.io/products"
+          href="https://arzu-guney.github.io/"
         />
       </Helmet>
 
