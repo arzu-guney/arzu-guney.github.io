@@ -23,7 +23,7 @@ function AboutMe() {
     "2025: Participated in AI Safety Hackathon and created Safeai Academy.",
     "2025: Participated in and created Mind Garden: AI-Powered Multi-Agent.(with amazing team)", 
     "2025: Participated in and created BrainBloom: AI-Powered Multi-Agent.(with amazing team)",
-    "2026 — Built Dottinoo, a UK classroom learning platform for ages 14–24, with personalized tasks created manually, from templates, or with AI.",
+    "2026 — Built Dottinoo, an AI learning platform for UK students aged 14–24.",
     "2026 — Built Motino, a daily motivation app where users spin once a day to receive, save, copy, or share an original quote.",
   ];
 
