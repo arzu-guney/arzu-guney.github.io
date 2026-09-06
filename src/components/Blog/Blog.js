@@ -24,10 +24,45 @@ import aboutMe from "../../assets/images/blog/aboutMe.png";
 import theRealStart from "../../assets/images/blog/theRealStart.png";
 import halfTheYear from "../../assets/images/blog/halfTheYear.png";
 import howDevelopers from "../../assets/images/blog/howDevelopers.png";
+import rediscoveringJavascriptPart1 from "../../assets/images/blog/rediscovering-javascript-part-1.png";
+import rediscoveringJavascriptPart2 from "../../assets/images/blog/rediscovering-javascript-part-2.png";
+import rediscoveringJavascriptPart3 from "../../assets/images/blog/rediscovering-javascript-part-3.png";
+import review2025 from "../../assets/images/blog/2025-in-review.png";
+import soFarSoGood2026 from "../../assets/images/blog/so-far-so-good-2026.png";
 
 
 
 const blogs = [
+  {
+    title: "So Far, So Good: 2026",
+    image: soFarSoGood2026,
+    readMoreLink:
+      "https://arzugny.medium.com/so-far-so-good-2026-d638720d6f79",
+  },
+  {
+    title: "Rediscovering JavaScript (Part 1): What Is JavaScript?",
+    image: rediscoveringJavascriptPart1,
+    readMoreLink:
+      "https://arzugny.medium.com/rediscovering-javascript-part-1-what-is-javascript-24f1ad38968a",
+  },
+  {
+    title: "Rediscovering JavaScript (Part 2): JavaScript in HTML",
+    image: rediscoveringJavascriptPart2,
+    readMoreLink:
+      "https://arzugny.medium.com/rediscovering-javascript-part-2-javascript-in-html-395464ddd91e",
+  },
+  {
+    title: "Rediscovering JavaScript (Part 3): Variables, Scope, and Memory",
+    image: rediscoveringJavascriptPart3,
+    readMoreLink:
+      "https://arzugny.medium.com/rediscovering-javascript-part-3-e7186cbd1ed2",
+  },
+  {
+    title: "2025 in Review: What I Built, Learned, and Loved",
+    image: review2025,
+    readMoreLink:
+      "https://arzugny.medium.com/2025-in-review-what-i-built-learned-and-loved-83ba3df7947f",
+  },
   {    
     title: "How Developers Stay Focused During Summer",
     image: howDevelopers,
