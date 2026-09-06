@@ -22,7 +22,8 @@ function AboutMe() {
     "2025: Received the AI Visionary Award from the Frontend Queens Community.",
     "2025: Participated in AI Safety Hackathon and created Safeai Academy.",
     "2025: Participated in and created Mind Garden: AI-Powered Multi-Agent.(with amazing team)", 
-    "2025: Participated in and created BrainBloom: AI-Powered Multi-Agent.(with amazing team)",    
+    "2025: Participated in and created BrainBloom: AI-Powered Multi-Agent.(with amazing team)",
+    "2026 — Built Dottinoo, a UK classroom learning platform for ages 14–24, with personalized tasks created manually, from templates, or with AI.",
   ];
 
   return (
