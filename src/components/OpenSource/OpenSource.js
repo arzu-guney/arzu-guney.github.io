@@ -19,7 +19,7 @@ function OpenSource() {
         <meta name="author" content="Arzu Guney Caner" />
         <link
           rel="canonical"
-          href="https://arzucaner.github.io/codearz.github.io/opensource"
+          href="https://arzu-guney.github.io/opensource"
         />
       </Helmet>
 
@@ -53,7 +53,7 @@ function OpenSource() {
             </ul>
             <div className={styles.links}>
               <a
-                href="https://github.com/arzucaner/web-accessibility-guide"
+                href="https://github.com/arzu-guney/web-accessibility-guide"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={styles.link}
@@ -61,7 +61,7 @@ function OpenSource() {
                 GitHub
               </a>
               <a
-                href="https://arzucaner.github.io/web-accessibility-guide/"
+                href="https://arzu-guney.github.io/web-accessibility-guide/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={styles.link}

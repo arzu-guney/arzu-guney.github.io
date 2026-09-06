@@ -12,7 +12,7 @@ const events = [
   { year: "2025", title: "Tech Talks: My Journey to Software Engineering-Codecademy"},
   { year: "2025", title: "Panel: International Women's Day-Frontend Queens"},
   { year: "2025", title: "The Fun Side of Being a Woman Developer-GDG London"},
-  { year: "2026", title: "The Fun Side of Being a Woman Developer-GDG London"},
+  { year: "2026", title: "Luck or Systems? 7 Career Accelerators for Women Developers"},
 ];
 
 function SpeakingPage() {
@@ -31,7 +31,7 @@ function SpeakingPage() {
         <meta name="author" content="Arzu Guney Caner" />
         <link
           rel="canonical"
-          href="https://arzucaner.github.io/codearz.github.io/speaking"
+          href="https://arzu-guney.github.io/speaking"
         />
       </Helmet>
 

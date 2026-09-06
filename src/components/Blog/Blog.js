@@ -185,7 +185,7 @@ function Blog() {
         <meta name="author" content="Arzu Guney Caner" />
         <link
           rel="canonical"
-          href="https://arzucaner.github.io/codearz.github.io/blog"
+          href="https://arzu-guney.github.io/blog"
         />
       </Helmet>
 

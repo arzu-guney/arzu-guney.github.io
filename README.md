@@ -51,7 +51,7 @@ This project serves as:
 
 ## 🔗 Live Demo
 
-Check out the live version here: [CodeArz Live Website](https://arzucaner.github.io/codearz/)
+Check out the live version here: [CodeArz Live Website](https://arzu-guney.github.io/)
 
 ## ⚙️ Setup and Installation
 
@@ -59,9 +59,9 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
 
-`    git clone https://github.com/arzugcaner/codearz.git`
+`    git clone https://github.com/arzu-guney/arzu-guney.github.io.git`
 
-`    cd codearz`
+`    cd arzu-guney.github.io`
 
 2. Install dependencies:
 
