@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.56ad38ca.css",
-    "main.js": "/static/js/main.03b8acc0.js",
+    "main.css": "/static/css/main.4f59b8fb.css",
+    "main.js": "/static/js/main.2f0ea9e8.js",
     "static/media/whyYouWaiting.png": "/static/media/whyYouWaiting.a5d15956737df72c2ccf.png",
     "static/media/whenWomenUnderstandImage.png": "/static/media/whenWomenUnderstandImage.0da09cb8d1debe1134d0.png",
     "static/media/juniorPortfolio.png": "/static/media/juniorPortfolio.2af4773e47c85f634ee9.png",
@@ -32,11 +32,13 @@
     "static/media/innoaiTS.png": "/static/media/innoaiTS.3b46a10fb770b037cb1b.png",
     "static/media/whyYouStill.png": "/static/media/whyYouStill.97aeeba34f4c18a01a35.png",
     "static/media/safeaiAcademyImage.png": "/static/media/safeaiAcademyImage.7d843f42db5b3be8b13e.png",
+    "static/media/dottinoo.png": "/static/media/dottinoo.b2b64ed98405901a52a8.png",
     "static/media/theRealStart.png": "/static/media/theRealStart.d7ef7a7d45abbb8d910b.png",
     "static/media/knittmates.png": "/static/media/knittmates.43f1b3dc7c48a875cb41.png",
     "static/media/travelBrewImage.png": "/static/media/travelBrewImage.4e3eae4ba7641f2c95ec.png",
     "static/media/wwCodeImage.png": "/static/media/wwCodeImage.bb3acf759271f0c3e592.png",
     "static/media/reactNativeImage.png": "/static/media/reactNativeImage.6856aad736cc6f11271d.png",
+    "static/media/motino.png": "/static/media/motino.634813d8fe185d080ef8.png",
     "static/media/mind-garden-preview.png": "/static/media/mind-garden-preview.64e888819681d5b1acec.png",
     "static/media/reactnativeperformance.png": "/static/media/reactnativeperformance.e68d516e8d2bf10fa0d4.png",
     "static/media/reactlibraries.png": "/static/media/reactlibraries.4bac5fd98b814f918538.png",
@@ -46,11 +48,11 @@
     "static/media/chirpXImage.png": "/static/media/chirpXImage.ccffa4b6d9b30ae77201.png",
     "static/media/accessibility-guide.png": "/static/media/accessibility-guide.c3ae312fb1befa2a3dee.png",
     "index.html": "/index.html",
-    "main.56ad38ca.css.map": "/static/css/main.56ad38ca.css.map",
-    "main.03b8acc0.js.map": "/static/js/main.03b8acc0.js.map"
+    "main.4f59b8fb.css.map": "/static/css/main.4f59b8fb.css.map",
+    "main.2f0ea9e8.js.map": "/static/js/main.2f0ea9e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.56ad38ca.css",
-    "static/js/main.03b8acc0.js"
+    "static/css/main.4f59b8fb.css",
+    "static/js/main.2f0ea9e8.js"
   ]
 }
