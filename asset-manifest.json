@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.56ad38ca.css",
-    "main.js": "/static/js/main.2c67be50.js",
+    "main.js": "/static/js/main.83fb1439.js",
     "static/media/whyYouWaiting.png": "/static/media/whyYouWaiting.a5d15956737df72c2ccf.png",
     "static/media/whenWomenUnderstandImage.png": "/static/media/whenWomenUnderstandImage.0da09cb8d1debe1134d0.png",
     "static/media/juniorPortfolio.png": "/static/media/juniorPortfolio.2af4773e47c85f634ee9.png",
@@ -42,10 +42,10 @@
     "static/media/accessibility-guide.png": "/static/media/accessibility-guide.c3ae312fb1befa2a3dee.png",
     "index.html": "/index.html",
     "main.56ad38ca.css.map": "/static/css/main.56ad38ca.css.map",
-    "main.2c67be50.js.map": "/static/js/main.2c67be50.js.map"
+    "main.83fb1439.js.map": "/static/js/main.83fb1439.js.map"
   },
   "entrypoints": [
     "static/css/main.56ad38ca.css",
-    "static/js/main.2c67be50.js"
+    "static/js/main.83fb1439.js"
   ]
 }
