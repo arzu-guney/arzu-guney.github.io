@@ -24,7 +24,7 @@ function AboutMe() {
     "2025: Participated in and created Mind Garden: AI-Powered Multi-Agent.(with amazing team)", 
     "2025: Participated in and created BrainBloom: AI-Powered Multi-Agent.(with amazing team)",
     "2026 — Built Dottinoo, an AI learning platform for UK students aged 14–24.",
-    "2026 — Built Motino, a daily motivation app where users spin once a day to receive, save, copy, or share an original quote.",
+    "2026 — Built Motino, a daily motivation app with one original quote per day.",
   ];
 
   return (
