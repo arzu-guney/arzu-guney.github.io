@@ -2,27 +2,27 @@ import React from "react";
 import { ExternalLink } from "lucide-react";
 import styles from "../FeaturedProjectCard/FeaturedProjectCard.module.css";
 
-function CVAssistant() {
+function ProductionRAGAssistant() {
   return (
     <div className={styles.cardWrapper}>
       <article className={styles.projectCard}>
-        <h3 className={styles.projectTitle}>CV Assistant: Talk to My CV</h3>
+        <h3 className={styles.projectTitle}>Production RAG Assistant</h3>
         <p className={styles.projectSubtitle}>
-          Interactive CV chatbot for my portfolio
+          RAG evaluation and retrieval experiments
         </p>
         <p className={styles.projectDescription}>
-          An interactive CV chatbot that allows visitors to engage with my
-          portfolio in a conversational way. Ask questions about my experience,
-          skills, and projects, and get instant AI-powered responses.
+          A production-oriented RAG project focused on retrieval quality,
+          evaluation, and measurable improvement. Improved Hit Rate@4 from 85.7%
+          to 100% through a controlled retrieval experiment.
         </p>
         <div className={styles.buttonGroup}>
           <a
-            href="https://cv-agent.netlify.app/"
+            href="https://github.com/arzu-guney/production-rag-assistant"
             target="_blank"
             rel="noopener noreferrer"
             className={styles.viewButton}
           >
-            <ExternalLink size={16} /> Chat with my CV
+            <ExternalLink size={16} /> View on GitHub
           </a>
         </div>
       </article>
@@ -30,4 +30,4 @@ function CVAssistant() {
   );
 }
 
-export default CVAssistant;
+export default ProductionRAGAssistant;

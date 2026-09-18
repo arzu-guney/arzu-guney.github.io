@@ -1,5 +1,6 @@
 import React from "react";
 import CVAssistant from "../CVAssistant/CVAssistant";
+import ProductionRAGAssistant from "../ProductionRAGAssistant/ProductionRAGAssistant";
 import MiniGame from "../MiniGame/MiniGame";
 import { Helmet } from "react-helmet";
 import { FaSearch } from "react-icons/fa";
@@ -52,14 +53,24 @@ function Hero() {
           </em>
         </p>
       </div>
-      <div className={styles.sectionHeader}>
-        <h2 className={styles.sectionTitle}> Lab Intelligence Updates</h2>    
-      </div>
+      <section
+        className={styles.labSection}
+        aria-labelledby="lab-intelligence-updates"
+      >
+        <div className={styles.sectionHeader}>
+          <h2 id="lab-intelligence-updates" className={styles.sectionTitle}>
+            Lab Intelligence Updates
+          </h2>
+        </div>
 
-      <div className={styles.extraContent}>
-        <CVAssistant />
-        <MiniGame />
-      </div>
+        <div className={styles.extraContent}>
+          <div className={styles.featuredProjects}>
+            <CVAssistant />
+            <ProductionRAGAssistant />
+          </div>
+          <MiniGame />
+        </div>
+      </section>
     </div>
   );
 }

@@ -1,7 +1,7 @@
-.countdownContainer {
+.cardWrapper {
   width: 100%;
   display: flex;
-  justify-content: center;
+  height: 100%;
 }
 
 .projectCard {
@@ -9,53 +9,44 @@
   border: 2px solid #ffd966;
   border-radius: 12px;
   padding: 16px;
-  margin: 30px auto;
-  max-width: 600px;
-  width: 90%; 
+  width: 100%;
   box-shadow: 0px 0px 14px rgba(255, 217, 102, 0.2);
   color: #f0f0f0;
   text-align: left;
   box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 .projectTitle {
   font-size: 20px;
   color: #ffd966;
   font-weight: bold;
-  margin-bottom: 8px;
+  margin: 0 0 8px;
 }
 
 .projectSubtitle {
   font-size: 14px;
   color: #e6e6e6;
-  margin-bottom: 16px;
+  margin: 0 0 16px;
 }
 
 .projectDescription {
   font-size: 15px;
   line-height: 1.5;
   color: #ddd;
-  margin-bottom: 16px;
-}
-
-.featureList {
-  list-style: none;
-  padding-left: 0;
-  color: #f1e2b2;
-  margin-bottom: 20px;
-  font-size: 14px;
-}
-
-.featureList li {
-  margin-bottom: 6px;
+  margin: 0 0 16px;
+  flex-grow: 1;
 }
 
 .buttonGroup {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  justify-content: center; 
-  margin-bottom: 16px;
+  justify-content: center;
+  margin-top: auto;
+  margin-bottom: 0;
   padding: 0 8px;
   box-sizing: border-box;
 }
@@ -87,22 +78,9 @@
   transform: scale(1.05);
 }
 
-.imageWrapper {
-  text-align: center;
-  margin-top: 16px;
-}
-
-.projectImage {
-  max-width: 100%;
-  height: auto;
-  border-radius: 10px;
-  box-shadow: 0 4px 12px rgba(255, 217, 102, 0.2);
-}
-
 @media (max-width: 768px) {
   .projectCard {
     padding: 14px;
-    width: 95%;
   }
 
   .buttonGroup {
