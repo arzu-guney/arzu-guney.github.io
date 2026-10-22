@@ -13,6 +13,7 @@ const events = [
   { year: "2025", title: "Panel: International Women's Day-Frontend Queens"},
   { year: "2025", title: "The Fun Side of Being a Woman Developer-GDG London"},
   { year: "2026", title: "Luck or Systems? 7 Career Accelerators for Women Developers"},
+  { year: "2026", title: "When My Side Project Had to Become Real-DevOpsDays London"},
 ];
 
 function SpeakingPage() {
