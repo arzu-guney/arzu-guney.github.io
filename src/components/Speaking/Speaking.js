@@ -28,7 +28,7 @@ function SpeakingPage() {
           name="keywords"
           content="Speaking Engagements, Tech Talks, Conferences, JavaScript, React, Accessibility, Women in Tech"
         />
-        <meta name="author" content="Arzu Guney Caner" />
+        <meta name="author" content="Arzu Guney" />
         <link
           rel="canonical"
           href="https://arzu-guney.github.io/"

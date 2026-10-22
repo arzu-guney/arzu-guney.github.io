@@ -138,7 +138,7 @@ function Projects() {
           name="keywords"
           content="Projects, React, Web Development, App Development, Open Source, Programming"
         />
-        <meta name="author" content="Arzu Guney Caner" />
+        <meta name="author" content="Arzu Guney" />
         <link
           rel="canonical"
           href="https://arzu-guney.github.io/"

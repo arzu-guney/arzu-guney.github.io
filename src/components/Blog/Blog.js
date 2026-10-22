@@ -217,7 +217,7 @@ function Blog() {
           name="keywords"
           content="Developer Blog, Web Development, Mobile Apps, Coding, React Native, Debugging, Developer Journey"
         />
-        <meta name="author" content="Arzu Guney Caner" />
+        <meta name="author" content="Arzu Guney" />
         <link
           rel="canonical"
           href="https://arzu-guney.github.io/"

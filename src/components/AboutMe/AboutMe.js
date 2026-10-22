@@ -30,16 +30,16 @@ function AboutMe() {
   return (
     <>
       <Helmet>
-        <title>About Arzu Guney Caner | Developer's Desk</title>
+        <title>About Arzu Guney | Developer's Desk</title>
         <meta
           name="description"
-          content="Learn more about Arzu Guney Caner, her journey in software development, and her contributions to the coding world."
+          content="Learn more about Arzu Guney, her journey in software development, and her contributions to the coding world."
         />
         <meta
           name="keywords"
-          content="About Arzu Guney Caner, Web Developer, Detective Mind, CodeArz"
+          content="About Arzu Guney, Web Developer, Detective Mind, CodeArz"
         />
-        <meta name="author" content="Arzu Guney Caner" />
+        <meta name="author" content="Arzu Guney" />
         <link
           rel="canonical"
           href="https://arzu-guney.github.io/"

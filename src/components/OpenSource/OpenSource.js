@@ -16,7 +16,7 @@ function OpenSource() {
           name="keywords"
           content="Open Source, Accessibility Guide, Inclusive Web Development, WCAG Standards, ARIA, Web Tutorials"
         />
-        <meta name="author" content="Arzu Guney Caner" />
+        <meta name="author" content="Arzu Guney" />
         <link
           rel="canonical"
           href="https://arzu-guney.github.io/"

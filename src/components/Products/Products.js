@@ -64,7 +64,7 @@ function Products() {
           name="keywords"
           content="Inventor's Lab, Crafting Innovations, KnittMates, Dottinoo, Motino, Products, Knitting App, Learning Platform, Motivation App"
         />
-        <meta name="author" content="Arzu Guney Caner" />
+        <meta name="author" content="Arzu Guney" />
         <link rel="canonical" href="https://arzu-guney.github.io/" />
       </Helmet>
 
