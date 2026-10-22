@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.956d8dd2.css",
-    "main.js": "/static/js/main.6702714c.js",
+    "main.css": "/static/css/main.fa0d7880.css",
+    "main.js": "/static/js/main.3c83531d.js",
     "static/media/whyYouWaiting.png": "/static/media/whyYouWaiting.a5d15956737df72c2ccf.png",
     "static/media/whenWomenUnderstandImage.png": "/static/media/whenWomenUnderstandImage.0da09cb8d1debe1134d0.png",
     "static/media/dottinoo.png": "/static/media/dottinoo.4c51163f4463a64b8e2a.png",
@@ -49,11 +49,11 @@
     "static/media/chirpXImage.png": "/static/media/chirpXImage.ccffa4b6d9b30ae77201.png",
     "static/media/accessibility-guide.png": "/static/media/accessibility-guide.c3ae312fb1befa2a3dee.png",
     "index.html": "/index.html",
-    "main.956d8dd2.css.map": "/static/css/main.956d8dd2.css.map",
-    "main.6702714c.js.map": "/static/js/main.6702714c.js.map"
+    "main.fa0d7880.css.map": "/static/css/main.fa0d7880.css.map",
+    "main.3c83531d.js.map": "/static/js/main.3c83531d.js.map"
   },
   "entrypoints": [
-    "static/css/main.956d8dd2.css",
-    "static/js/main.6702714c.js"
+    "static/css/main.fa0d7880.css",
+    "static/js/main.3c83531d.js"
   ]
 }
