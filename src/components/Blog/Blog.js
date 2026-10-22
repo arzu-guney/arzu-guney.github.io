@@ -29,10 +29,17 @@ import rediscoveringJavascriptPart2 from "../../assets/images/blog/rediscovering
 import rediscoveringJavascriptPart3 from "../../assets/images/blog/rediscovering-javascript-part-3.png";
 import review2025 from "../../assets/images/blog/2025-in-review.png";
 import soFarSoGood2026 from "../../assets/images/blog/so-far-so-good-2026.png";
+import canAiMakeThingsUpRag from "../../assets/images/blog/can-ai-make-things-up-rag.png";
 
 
 
 const blogs = [
+  {
+    title: "Can AI Make Things Up? Let’s Talk About RAG.",
+    image: canAiMakeThingsUpRag,
+    readMoreLink:
+      "https://arzugny.medium.com/can-ai-make-things-up-lets-talk-about-rag-7f666b216622",
+  },
   {
     title: "So Far, So Good: 2026",
     image: soFarSoGood2026,
