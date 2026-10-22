@@ -1,0 +1,53 @@
+.musicToggle {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  max-width: min(220px, calc(100vw - 40px));
+  padding: 8px 12px;
+  white-space: normal;
+  text-align: left;
+  background-color: #2e2e2e;
+  border: 2px solid #ffd966;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  color: #ffd966;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.2;
+  cursor: pointer;
+  box-sizing: border-box;
+  transition: background-color 0.3s ease, transform 0.2s ease, color 0.3s ease;
+}
+
+.musicToggle:hover {
+  background-color: #3a3a3a;
+  transform: scale(1.03);
+}
+
+.musicToggle:focus {
+  outline: none;
+}
+
+.musicToggle:focus-visible {
+  outline: 2px solid #ffd966;
+  outline-offset: 3px;
+}
+
+.musicToggle svg {
+  flex-shrink: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .musicToggle {
+    bottom: 16px;
+    right: 12px;
+    max-width: min(168px, calc(100vw - 24px));
+    min-height: 44px;
+    padding: 10px 12px;
+    font-size: 12px;
+  }
+}

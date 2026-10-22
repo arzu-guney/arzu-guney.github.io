@@ -8,13 +8,15 @@ import Products from "./components/Products/Products";
 import Projects from "./components/Projects/Projects";
 import OpenSource from "./components/OpenSource/OpenSource";
 import Speaking from "./components/Speaking/Speaking";
-import Footer from "./components/Footer/Footer"; 
+import Footer from "./components/Footer/Footer";
+import MusicToggle from "./components/MusicToggle/MusicToggle";
 
 function App() {
   return (
     <Router>
       <div className="App">
         <Navbar />
+        <MusicToggle />
         <Routes>
           <Route path="/" element={<Hero />} />
           <Route path="/about" element={<AboutMe />} />
