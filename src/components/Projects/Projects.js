@@ -22,7 +22,6 @@ const projects = [
       "Built during The Agent Development Kit Hackathon with Google Cloud. A modular AI-powered multi-agent system designed to deliver scalable, real-time mental health support. From risk detection to resource matching and peer support, MindGarden operates with safety and care at its core.",
     image: mindGardenImg,    
     githubLink:"https://github.com/smart-stacks/mindgarden",
-    liveLink: "https://mindgarden-app-6xntrakg7q-nw.a.run.app/chat", 
     videoLink: "https://youtu.be/7wsr1mDZekg"
   },
   {
